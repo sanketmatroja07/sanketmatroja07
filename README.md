@@ -1,45 +1,62 @@
-# 💫 About Me
+# Sanket Matroja
 
-I’m an AI Engineer focused on building full-stack products powered by automation, analytics, and intelligent workflows. I like solving real-world problems through practical software, combining strong product thinking with hands-on engineering.
+AI Engineer building full-stack products powered by automation, analytics, and intelligent workflows.
 
-I work across the stack with Python, TypeScript, Next.js, FastAPI, PostgreSQL, and modern web technologies. My projects reflect my interest in agentic systems, data products, recommendation engines, dashboards, and AI-assisted decision tools.
+## About Me
 
-What motivates me most is building products that are both technically strong and genuinely useful. I enjoy taking ideas from concept to execution, designing the experience, building the backend, connecting the data, and shipping something people can actually use.
+I build practical software that solves real-world problems. My work combines product thinking with hands-on engineering across frontend, backend, data, and deployment.
 
-## 🌐 Socials
+I enjoy creating AI-powered systems, analytics platforms, recommendation tools, dashboards, and workflow automation products. I care about building software that is technically strong, easy to use, and genuinely useful.
+
+My goal is to keep growing as an engineer who can take ideas from concept to execution, design the experience, build the backend, connect the data, and ship production-ready products.
+
+## Tech Stack
+
+**Languages:** Python, TypeScript, JavaScript, SQL
+
+**Frontend:** React, Next.js, Tailwind CSS, Framer Motion
+
+**Backend:** FastAPI, Node.js, REST APIs
+
+**Database and Tools:** PostgreSQL, Docker, Git, Vercel, Tableau
+
+## Featured Projects
+
+### [AI Portfolio](https://github.com/sanketmatroja07/ai-portfolio)
+Portfolio site built with Next.js, Tailwind CSS, and Framer Motion to showcase AI projects, case studies, and product-focused engineering work.
+
+Live: [portfolio-sigma-topaz.vercel.app](https://portfolio-sigma-topaz.vercel.app)
+
+### [RiskPulse](https://github.com/sanketmatroja07/riskpulse)
+Investigation automation platform for fraud and risk workflows with a modern frontend, API layer, and operational tooling.
+
+Live: [riskpulse-lemon.vercel.app](https://riskpulse-lemon.vercel.app)
+
+### [Coffee Sommelier](https://github.com/sanketmatroja07/coffee-sommelier)
+Full-stack coffee discovery product with a consumer experience, API services, and a multi-service development workflow.
+
+Live: [coffee-sommelier.vercel.app](https://coffee-sommelier.vercel.app)
+
+### [SignalVault](https://github.com/sanketmatroja07/signalvault)
+Startup idea discovery and signal collection product combining a Next.js frontend with a Python-backed signal pipeline.
+
+### [E-commerce Growth Analytics](https://github.com/sanketmatroja07/ecommerce-growth-analytics)
+Analytics project using SQL, Python, and Tableau to explore business performance and growth insights.
+
+## Current Focus
+
+- Building agentic AI products
+- Designing automation-first workflows
+- Creating analytics and decision-support tools
+- Shipping polished end-to-end product experiences
+
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketmatroja07/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanketmatroja07)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanketmatroja07@gmail.com)
 
-# 💻 Tech Stack
+## GitHub Stats
 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-336791?style=plastic&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=sanketmatroja07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=sanketmatroja07&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmatroja07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=sanketmatroja07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=sanketmatroja07&icon=0&color=7)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=sanketmatroja07&show_icons=true&theme=transparent&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketmatroja07&layout=compact&theme=transparent&hide_border=true)
